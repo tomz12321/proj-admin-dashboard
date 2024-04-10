@@ -17,3 +17,13 @@ Here we have project screenshot :
 
 ![screenshot1](screenshot1.png)
 ![screenshot2](screenshot2.png)
+
+### Recommamd to use simplewebserver to run and test
+Tools can be downloaded ([here](https://simplewebserver.org/download.html))
+
+### Alternative Server
+
+Use Python's SimpleHTTPServer module to quickly create a temporary web server (Web Server)
+```
+python -m SimpleHTTPServer [port]
+```
